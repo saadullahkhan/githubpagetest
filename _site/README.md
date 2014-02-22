@@ -1,4 +1,0 @@
-githubpagetest
-==============
-
-Test github pages
